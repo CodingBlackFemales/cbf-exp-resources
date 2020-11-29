@@ -2,9 +2,9 @@
 
 ## Books
 
-https://www.amazon.co.uk/What-Got-Here-Wont-There/dp/1846681375
-https://www.amazon.co.uk/Ditching-Imposter-Syndrome-Clare-Josa/dp/1908854979
-https://www.amazon.co.uk/How-Lead-Smart-People-Professionals/dp/1788161548 
+[What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.co.uk/What-Got-Here-Wont-There/dp/1846681375)
+[Ditching Imposter Syndrome](https://www.amazon.co.uk/Ditching-Imposter-Syndrome-Clare-Josa/dp/1908854979)
+[How To Lead Smart People: Leadership for Professionals](https://www.amazon.co.uk/How-Lead-Smart-People-Professionals/dp/1788161548) 
 
 ## Courses / Useful Sites
 
