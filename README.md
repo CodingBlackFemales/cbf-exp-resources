@@ -1,10 +1,15 @@
-# CBF EXP Resources
+# CBF EXP 
+CBF EXP is a space for experienced Coding Black Females to share solutions, discuss progression, create relevant events etc
+
+Our community has either at least 5 years in tech or are in a senior dev role
+
+# Resources
 
 ## Books
 
-[What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.co.uk/What-Got-Here-Wont-There/dp/1846681375)
-[Ditching Imposter Syndrome](https://www.amazon.co.uk/Ditching-Imposter-Syndrome-Clare-Josa/dp/1908854979)
-[How To Lead Smart People: Leadership for Professionals](https://www.amazon.co.uk/How-Lead-Smart-People-Professionals/dp/1788161548) 
+- [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.co.uk/What-Got-Here-Wont-There/dp/1846681375)
+- [Ditching Imposter Syndrome](https://www.amazon.co.uk/Ditching-Imposter-Syndrome-Clare-Josa/dp/1908854979)
+- [How To Lead Smart People: Leadership for Professionals](https://www.amazon.co.uk/How-Lead-Smart-People-Professionals/dp/1788161548) 
 
 ## Courses / Useful Sites
 
